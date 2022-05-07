@@ -1,6 +1,6 @@
 # Machine Learning Position Tracker 
 
-The main assumption of this project was designing  monitoring system which allow to define position and location in the room. It is possible by apply immage processing with machine learning and combinr it with pan tilt camera system.
+The main assumption of this project was designing  monitoring system which allow to define position and location in the room. It is possible by apply image processing with machine learning and combine it with pan tilt camera system.
 
 ## Technology:
 * Raspberry PI
