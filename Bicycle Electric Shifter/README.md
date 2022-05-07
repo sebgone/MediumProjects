@@ -35,19 +35,27 @@ System enables to fast electronic gear shift, callibration all gears, display ma
 ---
 ## Design:
 * ### Source Code:
+   * [source code](https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/Source%20Code.ino)
 * ### Inventor Elements:
+   * [inventor elements](https://github.com/sebgone/MediumProjects/tree/main/Bicycle%20Electric%20Shifter/Inventor%20elements)
 
 * ### CAD scheme:
-<img src="" width="700">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/CAD%20scheme.png" width="600">
 
 * ### Block Diagram:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/Block%20diagram.png" width="600">
 
 * ### Circuit Diagram:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/MCU%20diagram.PNG" width="600"> 
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/Power%20diagram.PNG" width="600">
 
 * ### Draft:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/Steering%20wheel%20draft.png" width="600">
 
 * ### Assembled device:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Bicycle%20Electric%20Shifter/Photos/1_all.jpg" width="600">
+
+<p float="left">
+  <img src="https://github.com/sebgone/MediumProjects/blob/main/Bicycle%20Electric%20Shifter/Photos/5_F1.jpg" width="300">
+  <img src="https://github.com/sebgone/MediumProjects/blob/main/Bicycle%20Electric%20Shifter/Photos/5_R2.jpg" width="300"> 
+</p>

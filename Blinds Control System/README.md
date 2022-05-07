@@ -15,33 +15,66 @@ The calculated value is compared with desired value. Next, based on difference r
 
 ## specificaton:
 - Four elements of a system
-- bluetooth communication
+- Bluetooth communication
 - Sensor battery supply
 - Controlling web page
-- limit switches 
+- Limit switches 
 - DC motor with metal gear
-
 ---
 ## Design:
 * ### Source Code:
+  * [source code](https://github.com/sebgone/MediumProjects/tree/sebgone-update/Blinds%20Control%20System/Source%20Code)  
 
 * ### Block Scheme:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/scheme.png" width="600">
 
 * ### Circuit Diagram:
-<img src="" width="600">
+&nbsp;
+&nbsp;
+
+  * Central module
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Diagrams/CentralModule.PNG" width="600">
+  
+&nbsp;
+&nbsp;
+
+  * Driver
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Diagrams/Driver.PNG" width="600">
+  
+&nbsp;
+&nbsp;
+
+  * Light Sensor
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Diagrams/LightSensor.PNG" width="600">
 
 * ### Circuit Eagle schematic:
-<img src="" width="700">
+&nbsp;
+&nbsp;
+
+   * Light Sensor 
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Layout/LightSensor%20Schematic.png" width="600">
+&nbsp;
+&nbsp;
+
+   * Motor Driver 
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Layout/MotorDriver%20Schematic.png" width="600">
+
 
 * ### Circuit Eagle PCB layout:
-<img src="" width="600">
+&nbsp;
+&nbsp;
 
-* ### Communication Test:
-<img src="" width="600">
+  * Light Sensor
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Layout/LightSensorPCB.png" width="600">
+&nbsp;
+&nbsp;
+
+  * Moto Driver
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/Layout/MotorDriver%20PCB.png" width="600">
+
 
 * ### Web Page:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/page.png" width="400">
 
 * ### Assembled device:
-<img src="" width="600">
+<img src="https://github.com/sebgone/MediumProjects/blob/sebgone-update/Blinds%20Control%20System/img1.jpg">
